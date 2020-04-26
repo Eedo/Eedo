@@ -13,7 +13,7 @@
 
 - [About](#about)
 - [Invite](#invite)
-- [Setup Guide](https://github.com/uhKevinMC/Exodus/blob/master/SETUP.md)
+- [Setup Guide](https://github.com/ExodusDiscord/Exodus/blob/master/SETUP.md)
 - [Issues](#issues)
 
 ## About
