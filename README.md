@@ -14,7 +14,9 @@
 
 - [About](#about)
 - [Invite](#invite)
+- [Setup Guide](https://www.github.com/uhKevinMC/Exodus/SETUP.md)
 - [Issues](#issues)
+- [Links](#links)
 
 ## About
 
