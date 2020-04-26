@@ -16,7 +16,6 @@
 - [Invite](#invite)
 - [Setup Guide](https://github.com/uhKevinMC/Exodus/blob/master/SETUP.md)
 - [Issues](#issues)
-- [Links](#links)
 
 ## About
 
