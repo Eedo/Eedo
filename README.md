@@ -9,3 +9,26 @@
     <a href="https://github.com/uhKevinMC/ExodusDiscord/actions"><img src="https://github.com/uhKevinMC/ExodusDiscord/workflows/Build%20Check/badge.svg" alt="Build Status" /></a>
   </p>
 </div>
+
+## Table of Contents
+
+- [About](#about)
+- [Invite](#invite)
+- [Issues](#issues)
+
+## About
+
+Exodus is a multi-purpose Discord bot built around the [Discord.js](https://github.com/discordjs/discord.js) [API](https://discordapp.com/developers/docs/intro) wrapper, enriching the possibilities of what you can do on your server. Exodus offers a multitude of commands and automated features that make up the Exodus ecosystem, from the music module to the moderation commands.
+
+- Maintained
+- Updated Constantly
+- New Features added Monthly
+- Excellent Support
+
+## Invite
+
+You can invite the bot to your server through the dashboard, on a server Exodus is already in, or by [clicking here.](https://discordapp.com/api/oauth2/authorize?client_id=449706234363510794&permissions=470281463&scope=bot)
+
+## Issues
+
+The issues tracker here is for users who have already contacted support and were redirected here. If you have not talked to support, you can do so [here.](https://discord.gg/m4CWkTp)
