@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="exodus-main.herokuapp.com"><img src="https://github.com/uhKevinMC/Exodus/blob/master/exodus-logo-main.png" width="546" alt="Exodus Discord" /></a>
+    <a href="https://exodusdiscord.org"><img src="https://github.com/ExodusDiscord/Exodus/blob/master/exodus-logo-main.png" width="546" alt="Exodus Discord" /></a>
   </p>
   <br />
   <p>
