@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
+  
 <head>
   <title>Exodus Discord</title>
   <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/ExodusDiscord/Exodus/master/exodusicon.png">
@@ -9,23 +9,98 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <style>
+    .center {
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    .logo-padding {
+      padding: 20px;
+    }
+    .btn-style {
+      border: 1px solid black;
+      color: black;
+    }
+    .animated {
+      background-repeat: no-repeat;
+      background-position: left top;
+      -webkit-animation-duration: 1s;
+      animation-duration: 1s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+    }
+
+    @-webkit-keyframes fadeInDown {
+      0% {
+         opacity: 0;
+         -webkit-transform: translateY(-100px);
+      }
+      100% {
+         opacity: 1;
+         -webkit-transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeInDown {
+      0% {
+         opacity: 0;
+         transform: translateY(-100px);
+      }
+      100% {
+         opacity: 1;
+         transform: translateY(0);
+      }
+    }
+
+    .fadeInDown {
+      -webkit-animation-name: fadeInDown;
+      animation-name: fadeInDown;
+    }
+
+    @-webkit-keyframes fadeInUp {
+      0% {
+         opacity: 0;
+         -webkit-transform: translateY(100px);
+      }
+      100% {
+         opacity: 1;
+         -webkit-transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeInUp {
+      0% {
+         opacity: 0;
+         transform: translateY(100px);
+      }
+      100% {
+         opacity: 1;
+         transform: translateY(0);
+      }
+    }
+
+    .fadeInUp {
+      animation-delay: 1s;
+      -webkit-animation-name: fadeInUp;
+      animation-name: fadeInUp;
+    }
+  </style>
 </head>
   
 <body>
-  <div style="position: absolute; left: 25%; transform: translate(-25%);">
-    <img src="https://raw.githubusercontent.com/ExodusDiscord/Exodus/master/exodusicon.png">
-  </div>
-  
-    <nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <ul class="nav navbar-nav mr-auto" style="position: absolute; left: 50%; transform: translate(-50%);">
-        <li class="active"><a href="https://exodusdiscord.org/">Home</a></li>
-        <li><a href="https://dashboard.exodusdiscord.org/">Dashboard</a></li>
-        <li><a href="https://support.exodusdiscord.org/">Support</a></li>
-        <li><a href="https://status.exodusdiscord.org/">Status</a></li>
-      </ul>
+  <div class="center">
+    <img class="img-fluid animated fadeInDown" src="https://raw.githubusercontent.com/ExodusDiscord/Exodus/master/exodus-logo-main.png">
+    <div class="text-center logo-padding">
+      <a role="button" class="btn btn-style animated fadeInUp" href="#">Home</a>
+      <a role="button" class="btn btn-style animated fadeInUp" href="https://dashboard.exodusdiscord.org/">Dashboard</a>
+      <a role="button" class="btn btn-style animated fadeInUp" href="https://support.exodusdiscord.org/">Support</a>
+      <a role="button" class="btn btn-style animated fadeInUp" href="https://status.exodusdiscord.org/">Status</a>
     </div>
-  </nav>
- </body>
+  </div>
+</body>
   
 </html>
