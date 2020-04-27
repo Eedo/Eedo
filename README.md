@@ -3,6 +3,7 @@
   <p>
     <a href="https://exodusdiscord.org"><img src="https://raw.githubusercontent.com/ExodusDiscord/Exodus/master/exodus-logo-main.png" width="546" alt="Exodus Discord" /></a>
   </p>
+  Multi-Purpose Discord Bot powered by the Discord.js Library.
   <br />
   <p>
     <a href="https://discord.gg/m4CWkTp"><img src="https://discordapp.com/api/guilds/449718669480558593/embed.png" alt="Discord Server" /></a>
