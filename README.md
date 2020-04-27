@@ -5,6 +5,7 @@
   </p>
   Multi-Purpose Discord Bot powered by the Discord.js Library.
   <br />
+  <br />
   <p>
     <a href="https://discord.gg/m4CWkTp"><img src="https://discordapp.com/api/guilds/449718669480558593/embed.png" alt="Discord Server" /></a>
   </p>
