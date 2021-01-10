@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://exodusdiscord.org"><img src="https://raw.githubusercontent.com/ExodusDiscord/Exodus/master/exodus-logo-main.png" width="546" alt="Exodus Discord" /></a>
+    <a href="https://eedo.app"><img src="https://raw.githubusercontent.com/Eedo/Eedo/master/eedo_logo.png" width="546" alt="Eedo" /></a>
   </p>
   Multi-Purpose Discord Bot powered by the Discord.js Library.
   <br />
@@ -15,12 +15,12 @@
 
 - [About](#about)
 - [Invite](#invite)
-- [Setup Guide](https://github.com/ExodusDiscord/Exodus/blob/master/SETUP.md)
+- [Setup Guide](https://github.com/Eedo/Eedo/blob/master/SETUP.md)
 - [Issues](#issues)
 
 ## About
 
-Exodus is a multi-purpose Discord bot built around the [Discord.js](https://github.com/discordjs/discord.js) [API](https://discordapp.com/developers/docs/intro) wrapper, enriching the possibilities of what you can do on your server. Exodus offers a multitude of commands and automated features that make up the Exodus ecosystem, from the music module to the moderation commands.
+Eedo is a multi-purpose Discord bot built around the [Discord.js](https://github.com/discordjs/discord.js) [API](https://discordapp.com/developers/docs/intro) wrapper, enriching the possibilities of what you can do on your server. Eedo offers a multitude of commands and automated features, from the music module to moderation, and to the fun commands.
 
 - Maintained
 - Updated Constantly
@@ -29,7 +29,7 @@ Exodus is a multi-purpose Discord bot built around the [Discord.js](https://gith
 
 ## Invite
 
-You can invite the bot to your server through the dashboard, on a server Exodus is already in, or by [clicking here.](https://discordapp.com/api/oauth2/authorize?client_id=449706234363510794&permissions=470281463&scope=bot)
+You can invite Eedo to your server through the dashboard, on a server Eedo is already in, or by [clicking here.](https://discordapp.com/api/oauth2/authorize?client_id=449706234363510794&permissions=470281463&scope=bot)
 
 ## Issues
 
