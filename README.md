@@ -1,13 +1,13 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://eedo.app"><img src="https://raw.githubusercontent.com/Eedo/Eedo/master/eedo_logo.png" width="546" alt="Eedo" /></a>
+    <a href="https://eedo.app/"><img src="https://raw.githubusercontent.com/Eedo/Eedo/master/eedo_icon.png" width="546" alt="Eedo" /></a>
   </p>
   Multi-Purpose Discord Bot powered by the Discord.js Library.
   <br />
   <br />
   <p>
-    <a href="https://discord.gg/m4CWkTp"><img src="https://discordapp.com/api/guilds/449718669480558593/embed.png" alt="Discord Server" /></a>
+    <a href="https://support.eedo.app/"><img src="https://discordapp.com/api/guilds/449718669480558593/embed.png" alt="Discord Server" /></a>
   </p>
 </div>
 
@@ -29,8 +29,8 @@ Eedo is a multi-purpose Discord bot built around the [Discord.js](https://github
 
 ## Invite
 
-You can invite Eedo to your server through the dashboard, on a server Eedo is already in, or by [clicking here.](https://discordapp.com/api/oauth2/authorize?client_id=449706234363510794&permissions=470281463&scope=bot)
+You can invite Eedo to your server through the dashboard, on a server Eedo is already in, or by [clicking here.](https://invite.eedo.app/)
 
 ## Issues
 
-The issues tracker here is for users who have already contacted support and were redirected here. If you have not talked to support, you can do so [here.](https://discord.gg/m4CWkTp)
+The issues tracker here is for users who have already contacted support and were redirected here. If you have not talked to support, you can do so [here.](https://support.eedo.app/)
