@@ -20,11 +20,11 @@
 
 ## About
 
-Eedo is a multi-purpose Discord bot built around the [Discord.js](https://github.com/discordjs/discord.js) [API](https://discordapp.com/developers/docs/intro) wrapper, enriching the possibilities of what you can do on your server. Eedo offers a multitude of commands and automated features, from the music module to moderation, and to the fun commands.
+Eedo is a multi-purpose Discord bot built around the [Discord.js](https://github.com/discordjs/discord.js) library, enriching the possibilities of what you can do on your server. Eedo offers a multitude of commands and automated features, from the leveling module to moderation, and to the fun commands.
 
 - Maintained
 - Updated Constantly
-- New Features added Monthly
+- New Features Every Major Release
 - Excellent Support
 
 ## Invite
