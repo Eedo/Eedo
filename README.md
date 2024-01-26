@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://eedo.app/"><img src="https://raw.githubusercontent.com/Eedo/Eedo/master/eedo_icon.png" width="546" alt="Eedo" /></a>
+    <a href="https://eedo.app/"><img src="https://raw.githubusercontent.com/Eedo/Eedo/master/cdn/eedo_icon.png" width="546" alt="Eedo" /></a>
   </p>
   Multi-Purpose Discord Bot powered by the Discord.js Library.
   <br />

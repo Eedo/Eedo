@@ -1,11 +1,11 @@
 <div align="center">
   <br />
   <p>
-    <a href="exodus-main.herokuapp.com"><img src="https://github.com/uhKevinMC/Exodus/blob/master/exodus-logo-main.png" width="546" alt="Exodus Discord" /></a>
+    <a href="https://eedo.app"><img src="https://raw.githubusercontent.com/Eedo/Eedo/master/cdn/eedo-logo-main.png" width="546" alt="Eedo Discord" /></a>
   </p>
   <br />
   <p>
-    <a href="https://discord.gg/m4CWkTp"><img src="https://discordapp.com/api/guilds/449718669480558593/embed.png" alt="Discord Server" /></a>
+    <a href="https://discord.gg/m4CWkTp"><img src="https://discord.com/api/guilds/449718669480558593/embed.png" alt="Discord Server" /></a>
   </p>
 </div>
 
@@ -16,12 +16,14 @@
 
 ## Inviting
 
-If you haven't already, you can invite the bot through the dashboard, on a server Exodus is already in, or by clicking [here.](https://discordapp.com/api/oauth2/authorize?client_id=449706234363510794&permissions=470281463&scope=bot).
+If you haven't already, you can invite the bot through the dashboard, on a server Eedo is already in, or by clicking [here.](https://invite.eedo.app/).
+
+Theres no need to configure permissions, as all the permissions selected are what the bot needs! **If you deselect permissions, you may be losing functionality with Eedo**, so talk with us on the support server if you have any questions about the permissions Eedo uses!
 
 ## Starting
 
-Congratulations on inviting Exodus! We are proud to serve you and your community. To start off, you can run `!settings` to get the list of modules you wish to enable. All of the modules that do not need configuring upon invite have already been enabled, so no need for immediate setup for those!
+Congratulations on inviting Eedo, your newest addition to your community! To start off, run the `/help` command to get a quick-start message that includes a link to our website and a support link to our support server. You can run `/settings` to configure the bot to how you wish. The bot comes ready out-of-the-box for simple use, so you don't need to configure anything to get started!
 
-Setup is extremely user-oriented, so you'll have ease-of-use while configuring the bot. If you need help, you can always run `!help` to bring up the easy-start message.
+Setup is easy to do! Configure the bot to how you want it to work for your community. If you need help, you can always run `/help` to bring up the quick-start message.
 
-If the bot does not respond on a command, you can always double check by using `!ping` or by pinging Exodus. If neither of those occur, please check that Exodus is online. If not, there is a possibility that you denied it key permissions. To fix this, simply add the `Administrator` permission to it. This will solve all future permission issues with the bot. Exodus **does NOT** abuse this permission, so no need to worry.
+If the bot does not respond to a command, you can always double check if the bot is online by using `/ping`. If the bot is online and is still not responding to commands, it might not have the correct permissions. To fix this, you can re-invite the bot to restore its original permissions.
